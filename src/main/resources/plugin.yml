@@ -1,0 +1,4 @@
+name: ProcrastinationUtils
+version: 1.0
+author: laklaklak
+main: life.procrastination.utils.Utils
